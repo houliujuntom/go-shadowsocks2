@@ -1,4 +1,4 @@
-module github.com/shadowsocks/go-shadowsocks2
+module github.com/houliujuntom/go-shadowsocks2
 
 go 1.15
 
